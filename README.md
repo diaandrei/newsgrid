@@ -1,2 +1,2 @@
-# newsgrid
-Newsgrid practicing html and css
+# Test the app here https://diaandrei.github.io/newsgrid/
+
